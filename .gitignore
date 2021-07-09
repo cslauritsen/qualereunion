@@ -1,0 +1,9 @@
+htpasswd
+logs
+*.gz
+error_log
+access_log
+awstats
+*~
+.*.swp
+.*.swo
